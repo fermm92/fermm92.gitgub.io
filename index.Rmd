@@ -35,9 +35,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 
 ## Introduction
 
-Fernando is transport modeller who leverages large datasets and multiple data sources to gain operational insight on transport networks on the UK. Aiding the build traffic models and testing future scenarios that will support evidence based decision making for local authorities and transport agencies. 
+Fernando is transport modeler who leverages large datasets and multiple data sources to gain operational insight on transport networks on the UK. Aiding the build traffic models and testing future scenarios that will support evidence based decision making for local authorities and transport agencies. 
 
-This Portfolio aims to show both personal and professional projects.
+This Portfolio aims to show both personal and professional projects (when the code can be shared openly).
 
 </div>
 
@@ -45,9 +45,8 @@ This Portfolio aims to show both personal and professional projects.
 
 *** 
 
-## [saturnR](https://github.com/R-AECOM/saturnR)
-The package saturnR is a thin wrapper around some complex system calls that automate highway model builds as well as data extraction for output processing on the SATURN software.
-[Github page](https://github.com/R-AECOM/saturnR)
+## ML deployment as microservice restful api
+_Coming soon_
 
 
 ## [bikecommclust](https://github.com/konstantinklemmer/bikecommclust)
@@ -56,3 +55,21 @@ Complementary code for "Community structures, interactions and dynamics in Londo
 _Oct 8, 2018, Ubicom PURBA-2018_
 
 We apply a novel clustering technique to London’s bikesharing network, deriving distinctive behavioral patterns and assessing community interactions and spatio-temporal dynamics. The analyses reveal selfcontained, interconnected and hybrid clusters that mimic London’s physical structure. Exploring changes over time, we find geographically isolated and specialized communities to be relatively consistent, while the remaining system exhibits volatility. We increase understanding of the collective behavior of the bikesharing users.
+
+## [saturnR](https://r-aecom.github.io/saturnR/)
+The package saturnR is a thin wrapper around some complex system calls that automate highway model builds as well as data extraction for output processing on the SATURN software.
+[Github page](https://r-aecom.github.io/saturnR/)
+
+## [spellbook](https://github.com/fermm92/spellbook-fmm)
+Collection of misc functions used across different projects as an R package.
+
+
+## [Simplex Optimisation](https://github.com/fermm92/simplex-prestressed-beam)
+Companion code for essay: "Optimum Design of Prestressed Beams under Uncertainties in the Tendon Layout" (2015)
+
+
+## Closed source projects
+Some alternative closed source projects include:
+
+* Survey data fusion and analysis to build movement matrices for high profile highway schemes.
+* GPS data analysis (traffic master) to calibrate journey times on highway models.
