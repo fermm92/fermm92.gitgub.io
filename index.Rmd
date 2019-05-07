@@ -1,0 +1,56 @@
+---
+title: "Portfolio"
+output:
+  rmdformats::html_docco:
+    highlight: kate
+---
+
+
+```{r setup, echo=FALSE, cache=FALSE, warning=FALSE}
+library(knitr)
+library(rmdformats)
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+               cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
+_Fernando Munoz Mendez_
+
+***
+
+## Introduction
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+
+Fernando is transport modeller who leverages large datasets and multiple data sources to gain operational insight on transport networks on the UK. Aiding the build traffic models and testing future scenarios that will support evidence based decision making for local authorities and transport agencies. 
+
+This Portfolio aims to show both personal and professional projects.
+
+</div>
+
+
+
+*** 
+
+## [saturnR](https://github.com/R-AECOM/saturnR)
+The package saturnR is a thin wrapper around some complex system calls that automate highway model builds as well as data extraction for output processing on the SATURN software.
+[Github page](https://github.com/R-AECOM/saturnR)
+
+
+## [bikecommclust](https://github.com/konstantinklemmer/bikecommclust)
+Complementary code for "Community structures, interactions and dynamics in London's bicycle sharing network"
+
+_Oct 8, 2018, Ubicom PURBA-2018_
+
+We apply a novel clustering technique to London’s bikesharing network, deriving distinctive behavioral patterns and assessing community interactions and spatio-temporal dynamics. The analyses reveal selfcontained, interconnected and hybrid clusters that mimic London’s physical structure. Exploring changes over time, we find geographically isolated and specialized communities to be relatively consistent, while the remaining system exhibits volatility. We increase understanding of the collective behavior of the bikesharing users.
