@@ -35,7 +35,7 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 
 ## Introduction
 
-Fernando is transport modeler who leverages large datasets and multiple data sources to gain operational insight on transport networks on the UK. Aiding the build traffic models and testing future scenarios that will support evidence based decision making for local authorities and transport agencies. 
+Fernando is transport modeler who leverages large datasets and multiple data sources to gain operational insight on transport networks on the UK. Aiding the build traffic of models and testing future scenarios that will support evidence based decision making for local authorities and major transport agencies. 
 
 This Portfolio aims to show both personal and professional projects (when the code can be shared openly).
 
@@ -68,8 +68,8 @@ Collection of misc functions used across different projects as an R package.
 Companion code for essay: "Optimum Design of Prestressed Beams under Uncertainties in the Tendon Layout" (2015)
 
 
-## Closed source projects
-Some alternative closed source projects include:
+<!-- ## Closed source projects -->
+<!-- Some alternative closed source projects include: -->
 
-* Survey data fusion and analysis to build movement matrices for high profile highway schemes.
-* GPS data analysis (traffic master) to calibrate journey times on highway models.
+<!-- * Survey data fusion and analysis to build movement matrices for high profile highway schemes. -->
+<!-- * GPS data analysis (traffic master) to calibrate journey times on highway models. -->
