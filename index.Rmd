@@ -58,7 +58,7 @@ We apply a novel clustering technique to London’s bikesharing network, derivin
 
 ## [saturnR](https://r-aecom.github.io/saturnR/)
 The package saturnR is a thin wrapper around some complex system calls that automate highway model builds as well as data extraction for output processing on the SATURN software.
-[Github page](https://r-aecom.github.io/saturnR/)
+[Github page](https://github.com/R-AECOM/saturnR)
 
 ## [spellbook](https://github.com/fermm92/spellbook-fmm)
 Collection of misc functions used across different projects as an R package.
