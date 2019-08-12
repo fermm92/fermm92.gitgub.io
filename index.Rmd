@@ -22,8 +22,6 @@ opts_chunk$set(echo=FALSE,
 opts_knit$set(width=75)
 ```
 
-_Fernando Munoz Mendez_
-
 ***
 
 
@@ -35,7 +33,7 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 
 ## Introduction
 
-Fernando is a transport modeler who leverages large datasets and multiple data sources to gain operational insight on transport networks on the UK. Aiding the build traffic of models and testing future scenarios that will support evidence based decision making for local authorities and major transport agencies. 
+Fernando is a transport modeler who leverages large datasets and multiple data sources to gain operational insight on transport networks on the UK, aiding the build of traffic models and testing future scenarios that will support evidence-based decision-making for local authorities and major transport agencies. 
 
 This Portfolio aims to show both personal and professional projects (when the code can be shared openly).
 
@@ -61,11 +59,30 @@ The package saturnR is a thin wrapper around some complex system calls that auto
 [Github page](https://github.com/R-AECOM/saturnR)
 
 ## [spellbook](https://github.com/fermm92/spellbook-fmm)
-Collection of misc functions used across different projects as an R package.
+Collection of misc functions used across different projects as an R package facilitating reusing bespoke code on transport analysis and time series tasks.
 
 
 ## [Simplex Optimisation](https://github.com/fermm92/simplex-prestressed-beam)
 Companion code for essay: "Optimum Design of Prestressed Beams under Uncertainties in the Tendon Layout" (2015)
+While not exactly reproducible showcases an implementation of linear optimisation algorithms on FORTRAN with multiple constrains. While the techique is admidetly not the best suited for such a non-liear problem it's a great example on linear algebra algorithmic implementations.
+
+***
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<p style="text-align: center;">
+_Fernando Munoz 2019_
+</p>
 
 
 <!-- ## Closed source projects -->
