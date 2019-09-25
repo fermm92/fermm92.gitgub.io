@@ -46,7 +46,7 @@ This Portfolio aims to show both personal and professional projects (when the co
 ## [Deployment of ML model to detect credit card fraud as microservice](https://github.com/fermumen/credit_card_fraud)
 This two part post showcases how R can be used on a professional enviroment to generate production level results. 
 
-**Part 1** details show to set up a quick classifier model with a RESTful API using plumber and mlr.
+**Part 1** details how to set up a quick classifier model with a RESTful API using plumber and mlr.
 
 **Part 2** shows how, with the help of docker and rocker, we can containeraize our application to be deployed on the cloud to quickly integrate it within our company.
 
