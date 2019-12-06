@@ -55,7 +55,7 @@ This two part post showcases how R can be used on a professional enviroment to g
 
 [**Part 1**](https://fermumen.github.io/credit_card_fraud/) details how to set up a quick classifier model with extreme gradient boosting and mlr.
 
-[**Part 2**](https://fermumen.github.io/credit_card_fraud/Part_2.nb.html) shows how, with the help of a RESTful API using plumber,docker, we can containeraize our application to be deployed on the cloud to quickly integrate it within our company.
+[**Part 2**](https://fermumen.github.io/credit_card_fraud/Part_2.nb.html) shows how, with the help of a RESTful API using plumber and docker, we can containeraize our application to be deployed in the cloud to quickly integrate it within our company.
 
 
 
