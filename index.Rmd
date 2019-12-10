@@ -66,7 +66,7 @@ _Oct 8, 2018, Ubicom PURBA-2018_
 
 We apply a novel clustering technique to London’s bikesharing network, deriving distinctive behavioral patterns and assessing community interactions and spatio-temporal dynamics. The analyses reveal selfcontained, interconnected and hybrid clusters that mimic London’s physical structure. Exploring changes over time, we find geographically isolated and specialized communities to be relatively consistent, while the remaining system exhibits volatility. We increase understanding of the collective behavior of the bikesharing users.
 
-**Blog Post** - [Medium](https://medium.com/@fermm92/community-structures-interactions-and-dynamics-in-londons-bicycle-sharing-network-using-r-8d5a575c302?source=friends_link&sk=0dd3fbe12e16d383489f6f08774c760c)
+**Blog Post** - [Medium @ Towards Data Science ](https://towardsdatascience.com/community-structures-interactions-and-dynamics-in-londons-bicycle-sharing-network-using-r-8d5a575c302?source=email-16dab367f3c-1575994848777-layerCake.autoLayerCakeWriterNotification-------------------------ace4915b_ec79_47dc_926e_7e2d16e32332&sk=0dd3fbe12e16d383489f6f08774c760c)
 
 ## [saturnR](https://r-aecom.github.io/saturnR/)
 The package saturnR is a thin wrapper around some complex system calls that automate highway model builds as well as data extraction for output processing on the SATURN software.
