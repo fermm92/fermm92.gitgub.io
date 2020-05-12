@@ -33,7 +33,7 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 
 ## Introduction
 
-Fernando is a transport modeler who leverages large datasets and multiple data sources to gain operational insight on transport networks on the UK, aiding the build of traffic models and testing future scenarios that will support evidence-based decision-making for local authorities and major transport agencies. 
+Fernando is a data scientist who leverages large datasets and multiple data sources to gain operational insight on public transport systems in London, aiding the build of predictive statistical models that result in improved network reliability.
 
 This Portfolio aims to show both personal and professional projects (when the code can be shared openly).
 
