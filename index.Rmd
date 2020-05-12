@@ -24,6 +24,12 @@ opts_knit$set(width=75)
 
 ***
 
+```{r, echo=FALSE}
+# htmltools::img(src = knitr::image_uri(file.path(R.home("doc"), "html", "logo.png")), 
+#                alt = 'logo', 
+#                style = 'position:absolute; top:0; right:0; padding:10px;')
+```
+
 
 
 <style>
@@ -43,12 +49,13 @@ This Portfolio aims to show both personal and professional projects (when the co
 
 *** 
 
+
 ## [Deployment of ML model to detect credit card fraud as microservice](https://github.com/fermumen/credit_card_fraud)
 This two part post showcases how R can be used on a professional enviroment to generate production level results. 
 
 [**Part 1**](https://fermumen.github.io/credit_card_fraud/) details how to set up a quick classifier model with extreme gradient boosting and mlr.
 
-[**Part 2**](https://fermumen.github.io/credit_card_fraud/Part_2.nb.html) shows how, with the help of a RESTful API using plumber,docker, we can containeraize our application to be deployed on the cloud to quickly integrate it within our company.
+[**Part 2**](https://fermumen.github.io/credit_card_fraud/Part_2.nb.html) shows how, with the help of a RESTful API using plumber and docker, we can containeraize our application to be deployed in the cloud to quickly integrate it within our company.
 
 
 
@@ -59,9 +66,11 @@ _Oct 8, 2018, Ubicom PURBA-2018_
 
 We apply a novel clustering technique to London’s bikesharing network, deriving distinctive behavioral patterns and assessing community interactions and spatio-temporal dynamics. The analyses reveal selfcontained, interconnected and hybrid clusters that mimic London’s physical structure. Exploring changes over time, we find geographically isolated and specialized communities to be relatively consistent, while the remaining system exhibits volatility. We increase understanding of the collective behavior of the bikesharing users.
 
-## [saturnR](https://r-aecom.github.io/saturnR/)
+**Blog Post** - [Medium @ Towards Data Science ](https://towardsdatascience.com/community-structures-interactions-and-dynamics-in-londons-bicycle-sharing-network-using-r-8d5a575c302?source=email-16dab367f3c-1575994848777-layerCake.autoLayerCakeWriterNotification-------------------------ace4915b_ec79_47dc_926e_7e2d16e32332&sk=0dd3fbe12e16d383489f6f08774c760c)
+
+## [saturnR](https://fermumen.github.io/saturnR-docs/)
 The package saturnR is a thin wrapper around some complex system calls that automate highway model builds as well as data extraction for output processing on the SATURN software.
-[Github page](https://github.com/R-AECOM/saturnR)
+[Github page](https://github.com/fermumen/saturnR) (Private)
 
 ## [spellbook](https://github.com/fermm92/spellbook-fmm)
 Collection of misc functions used across different projects as an R package facilitating reusing bespoke code on transport analysis and time series tasks.
